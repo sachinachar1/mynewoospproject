@@ -1,1 +1,1 @@
-# mynewoospproject
+# mynewossproject
